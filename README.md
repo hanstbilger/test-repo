@@ -7,3 +7,4 @@
 I can use simple text formatting to make **bold** or *italic* text!
 
 And here are some ***edits***
+Here is some new text I am adding from the shell to update the README file.
